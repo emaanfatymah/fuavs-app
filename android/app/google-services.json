@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555782467491",
+    "project_id": "fuavs-app-5902f",
+    "storage_bucket": "fuavs-app-5902f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555782467491:android:87770fd64ef0964ee37416",
+        "android_client_info": {
+          "package_name": "com.example.drone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHdBN5BNFYsKVZDOEvA5BUv04B6WsNlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
